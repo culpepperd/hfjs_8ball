@@ -15,3 +15,9 @@ var eightBall = {
 
 eightBall.shake();
 console.log(eightBall.look());
+eightBall.shake();
+console.log(eightBall.look());
+eightBall.shake();
+console.log(eightBall.look());
+eightBall.shake();
+console.log(eightBall.look());
